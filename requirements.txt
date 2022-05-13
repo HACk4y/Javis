@@ -1,0 +1,5 @@
+# USE pip install -r requirements.txt
+pyttsx3
+speechRecognition
+wikipedia
+pyWebBrowser
